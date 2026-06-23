@@ -75,7 +75,7 @@ Front-End Developer with **1 year of hands-on experience** and **14 years of pro
 
 - 💼 [LinkedIn](https://linkedin.com/in/ehsan-moattari)
 - 🐙 [GitHub](https://github.com/emoatari)
-- 📧 [e.moattari@gmail.com](mailto:moattariehsan@gmail.com)
+- 📧 [moattariehsan@gmail.com](mailto:moattariehsan@gmail.com)
 - 🌐 [Portfolio](https://emoatari.github.io/portfolio/)
 
 ---
